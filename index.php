@@ -2,7 +2,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>jQuery Validation: length validation examples</title>
+  <title>My jQuery Validation: length validation examples</title>
   
   
   
